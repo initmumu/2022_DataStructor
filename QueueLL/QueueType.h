@@ -62,6 +62,10 @@ public:
     }
 
     void Enqueue(type item){
+
+        if(isFull())
+            throw FullQueue();
+
         Node<type>* newItem;
 
         newItem = new Node<type>;
