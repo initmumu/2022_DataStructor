@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    # 스택(Stack ADT)
+# 스택(Stack ADT)
 
 > Author: 경희대학교 컴퓨터공학부 배승호<br>
 > Date: 20220419 Tue
@@ -142,5 +133,3 @@ void stack::print(){
     cout << '\n';
 }
 ```
-</body>
-</html>
